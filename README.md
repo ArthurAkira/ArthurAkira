@@ -1,6 +1,6 @@
 
 
-### Olá eu sou o Arthur 🎉
+### Olá eu sou o Arthur 🎉, 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/arthurakiratoyonagasetani/)
@@ -9,7 +9,11 @@
 [![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 ](https://arthurakira.github.io/ArthurSetani/#)
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurAkira&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/ViniciusIshikawa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurAkira&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAkira&layout=compact&langs_count=7&theme=dracula">
+</div>
 
 ### Tecnologias que utilizo atualmente
 <div style="display: inline_block"><br/>
