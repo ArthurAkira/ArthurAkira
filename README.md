@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/CQ8k.gif"/>
+<img align="right" height="150" src="https://i.gifer.com/CQ8k.gif/>
 
 ###
 <div align="left">
