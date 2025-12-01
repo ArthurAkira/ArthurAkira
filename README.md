@@ -3,7 +3,7 @@
 
 <p align="left">Eu me chamo Arthur, sou um estudante no curso de Ciências da Computação</p>
 
-<p align="left">tento criar algo coisa com oque eu sei</p>
+<p align="left">tento criar algo com meu conhecimento</p>
 <p align="left">se eu tiver alguma ideia, talvez eu tente por em prática</p>
 
 
