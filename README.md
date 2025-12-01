@@ -5,6 +5,7 @@
 
 <p align="left">tento criar algo com meu conhecimento</p>
 <p align="left">se eu tiver alguma ideia, talvez eu tente por em prática</p>
+<p align="left">Geralmente faco meus projetos em java, mas ultimamente tenHo explorado React e Next para projetos front end <p>
 
 
 
