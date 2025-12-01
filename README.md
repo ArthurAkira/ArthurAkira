@@ -1,7 +1,14 @@
 
-<h2 align="left">Opa 👋! Eu sou o Arthur e eu sou um estudante de Ciências da Computação</h2>
+<h2 align="left">Olá 👋!</h2>
 
-###
+<h1 align="left">Eu me chamo Arthur, sou um estudante no curso de Ciências da Computação</h1>
+
+<h1 align="left">tento criar algo coisa com oque eu sei</h1>
+<h1 align="left">se eu tiver alguma ideia, talvez eu tente por em prática</h1>
+
+
+
+
 
 <div align="center">
   <!--
