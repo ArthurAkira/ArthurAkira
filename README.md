@@ -1,16 +1,16 @@
 
 <h2 align="left">Olá 👋!</h2>
 
-<h1 align="left">Eu me chamo Arthur, sou um estudante no curso de Ciências da Computação</h1>
+<p align="left">Eu me chamo Arthur, sou um estudante no curso de Ciências da Computação</p>
 
-<h1 align="left">tento criar algo coisa com oque eu sei</h1>
-<h1 align="left">se eu tiver alguma ideia, talvez eu tente por em prática</h1>
-
-
+<p align="left">tento criar algo coisa com oque eu sei</p>
+<p align="left">se eu tiver alguma ideia, talvez eu tente por em prática</p>
 
 
 
-<div align="center">
+
+
+<div align="left">
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=ArthurAkira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   -->
