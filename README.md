@@ -77,7 +77,7 @@ Sou estudante de Ciência da Computação (20 anos) no Brasil, unindo o desenvol
 </details>
 
 <details>
-<summary><b>🇯🇵 日本語版</b></summary>
+<summary><b>🇯🇵 日本語</b></summary>
 
 <br>
 
