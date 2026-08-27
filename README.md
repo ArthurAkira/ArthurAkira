@@ -17,7 +17,7 @@ I'm currently studying Computer Science at Universidade Paulista (UNIP). Here's 
 
 - I run on both coffee and tea! ☕🍵
 - I'm really into Anime and playing Wadaiko (traditional Japanese drums).
-- Besides being a native Portuguese speaker, I also have a B2 level in English.
+- Besides being a native Portuguese speaker, I also have a B2 level in English and learning Japanese.
 
 ## 📫 Contact
 
