@@ -48,7 +48,7 @@ I'm a 20-year-old Computer Science student in Brazil, merging software developme
 
 <br>
 
-### Olá, eu sou o Arthur 👋
+## Olá, eu sou o Arthur 👋
 
 Sou estudante de Ciência da Computação (20 anos) no Brasil, unindo o desenvolvimento de software a uma grande paixão pela cultura japonesa e okinawana.
 
