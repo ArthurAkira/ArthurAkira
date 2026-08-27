@@ -21,7 +21,7 @@ I'm a 20-year-old Computer Science student in Brazil, merging software developme
 
 #### ✨ Fun Facts
 
-- Big fan of Anime and active Wadaiko player 🥁
+- Big fan of Anime and actively play Wadaiko (traditional Japanese drums).
 - Powered equally by coffee and tea ☕🍵
 
 #### 📫 Contact
@@ -49,12 +49,12 @@ Sou estudante de Ciência da Computação (20 anos) no Brasil, unindo o desenvol
 
 - Desenvolvendo projetos práticos em programação para evoluir como desenvolvedor.
 - Estudando japonês (focado do JLPT N5 ao N3), além do português nativo e inglês B2.
-- Participando ativamente da comunidade nipônica através do Wadaiko e eventos culturais.
+- Participando ativamente da comunidade nipônica e okinawana através do Wadaiko e eventos culturais.
 
 #### ✨ Curiosidades
 
-- Fã de animes e tocador ativo de Wadaiko (tambores tradicionais japoneses) 🥁
-- Movido a café e chá ☕🍵
+- Fã de animes e tocador de Wadaiko (tambores tradicionais japoneses) 🥁
+- Gosto de chá e café 🍵☕
 
 #### 📫 Contato
 
