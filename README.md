@@ -69,7 +69,7 @@ Sou estudante de Ciência da Computação (20 anos) no Brasil, unindo o desenvol
 
 <br>
 
-### 初めまして、Arthur（アルトゥール）です 👋
+### 初めまして、Arthur（アキラ）です 👋
 
 ブラジル在住の20歳のコンピュータサイエンスの学生です。ソフトウェア開発の学習と、日本・沖縄文化への情熱を注いでいます。
 
