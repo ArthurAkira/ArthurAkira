@@ -2,7 +2,7 @@
 
 I'm a 20-year-old Computer Science student in Brazil, and I'm passionate about Japanese/Okinawan Culture. 
 
-- Stay updated with my journey on [Instagram](https://www.instagram.com/arthurakirat/) and [LinkedIn](https://www.linkedin.com/in/arthurakiratoyonagasetani/).
+- Check out my [Instagram](https://www.instagram.com/arthurakirat/) and [LinkedIn](https://www.linkedin.com/in/arthurakiratoyonagasetani/).
 - Check out the cultural groups I'm proudly part of: [Seinenkai Okinawa Campinas](https://www.instagram.com/seinenkaiaokcps/) and [Wadaiko Shin Tsubame](https://www.instagram.com/shin.tsubame/).
 
 ## 🔭 Current Endeavors 
