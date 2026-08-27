@@ -1,37 +1,26 @@
+### Hey, I'm Arthur 👋 
 
-<h2 align="left">Olá 👋!</h2>
+I'm a 20-year-old Computer Science student in Brazil, and I'm passionate about Japanese/Okinawan Culture. 
 
-<p align="left">Eu me chamo Arthur, sou um estudante no curso de Ciências da Computação</p>
+- Stay updated with my journey on [Instagram](https://www.instagram.com/arthurakirat/) and [LinkedIn](https://www.linkedin.com/in/arthurakiratoyonagasetani/).
+- Check out the cultural groups I'm proudly part of: [Seinenkai Okinawa Campinas](https://www.instagram.com/seinenkaiaokcps/) and [Wadaiko Shin Tsubame](https://www.instagram.com/shin.tsubame/).
 
-<p align="left">tento criar algo com meu conhecimento</p>
-<p align="left">se eu tiver alguma ideia, talvez eu tente por em prática</p>
-<p align="left">Geralmente faco meus projetos em java, mas ultimamente tenho explorado React e Next para projetos front end <p>
+## 🔭 Current Endeavors 
 
+I'm currently studying Computer Science at Universidade Paulista (UNIP). Here's what I'm currently focused on:
 
+- I'm learning and building projects using **Java**, **Python**, and **JavaScript**.
+- I'm dedicating time to studying Japanese, currently aiming for JLPT N5 to N3 level.
+- I'm actively participating in my local Japanese/Okinawan community through Wadaiko and Seinenkai events.
 
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+## ✨ Fun Facts 
 
-###
+- I run on both coffee and tea! ☕🍵
+- I'm really into Anime and playing Wadaiko (traditional Japanese drums).
+- Besides being a native Portuguese speaker, I also have a B2 level in English.
 
-<div align="left">
-  <a href="https://www.instagram.com/arthurakirat/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/arthurakiratoyonagasetani/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 📫 Contact
 
-###
-
+For a quick response, DM me on [Instagram](https://www.instagram.com/arthurakirat/) or [LinkedIn](https://www.linkedin.com/in/arthurakiratoyonagasetani/). 
+ 
+For professional inquiries, reach out via email at [arthur.akira.toyonaga@gmail.com](mailto:arthur.akira.toyonaga@gmail.com).
