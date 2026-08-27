@@ -10,7 +10,7 @@
   </a>
 </p>
 <br>
-###🌐 Languages / Idiomas / 言語
+###Languages / Idiomas / 言語
 <br>
 <details>
 <summary><b>🇺🇸 English Version</b></summary>
