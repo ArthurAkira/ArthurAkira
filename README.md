@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/%E8%A8%80%E8%AA%9E-%E6%97%A5%E6%9C%AC%E8%AA%9E-red?style=for-the-badge&logo=github" alt="日本語">
   </a>
 </p>
-<br>
+
 ### Languages / Idiomas / 言語
-<br>
 <details>
+  <br>
 <summary><b>🇺🇸 English Version</b></summary>
 
 <br>
