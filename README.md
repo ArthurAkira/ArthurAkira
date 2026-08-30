@@ -11,7 +11,7 @@
 </p>
 
 ### Languages / Idiomas / 言語
-<details>
+<details open>
 <summary><b>🇺🇸 English Version</b></summary>
 
 <br>
