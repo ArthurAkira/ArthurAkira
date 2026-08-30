@@ -12,7 +12,6 @@
 
 ### Languages / Idiomas / 言語
 <details>
-  <br>
 <summary><b>🇺🇸 English Version</b></summary>
 
 <br>
